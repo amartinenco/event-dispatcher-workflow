@@ -1,6 +1,6 @@
 # Example of running github action from the outside
 
-npm install
+npm install<br />
 node index.js
 
 ## Example .env file
