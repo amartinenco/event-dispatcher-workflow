@@ -1,7 +1,7 @@
 # Example of running github action from the outside
 
 ```
-npm install<br />
+npm install
 node index.js
 ```
 
