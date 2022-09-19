@@ -1,0 +1,23 @@
+{
+  "name": "event-dispatcher-workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amartinenco/event-dispatcher-workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amartinenco/event-dispatcher-workflow/issues"
+  },
+  "homepage": "https://github.com/amartinenco/event-dispatcher-workflow#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2"
+  }
+}

@@ -1,0 +1,10 @@
+name: testjob
+on:
+  repository_dispatch:
+    types: [testjob]
+jobs:
+  testjob:
+    runs-on: ubuntu-latest
+    steps:
+      - name: my-step
+        run: echo "Hello World!"
